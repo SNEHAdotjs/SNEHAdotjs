@@ -21,11 +21,12 @@ and growing as a developer every day.
 
 ---
 
-## 🎯 **My Goals**
-- Become a Professional Full Stack Developer  
-- Build real-world MERN projects  
-- Grow a strong tech portfolio  
-
+## 🎯 **My Goals** 
+- Master the MERN Stack (MongoDB, Express, React, Node)
+- Become a Skilled Full Stack Developer
+- Build real-world web applications
+- Improve problem-solving & clean coding skills
+- Grow a strong tech portfolio with meaningful projects
 ---
 
 ## 📫 **Connect with me**
