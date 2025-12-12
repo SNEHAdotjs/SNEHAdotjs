@@ -1,4 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Sneha  
+### 💻 Aspiring Full Stack Developer | MERN Stack Learner | Tech Enthusiast  
+
+🌟 Passionate about building web apps, learning new technologies,  
+and growing as a developer every day.  
+
+---
+
+## 🚀 **Tech Stack**
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB (learning)  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📚 **Currently Learning**
+- MERN Stack (MongoDB, Express, React, Node)  
+- Full Stack Development  
+- API Building & Deployment  
+
+---
+
+## 🎯 **My Goals**
+- Become a Professional Full Stack Developer  
+- Build real-world MERN projects  
+- Grow a strong tech portfolio  
+
+---
+
+## 📫 **Connect with me**
+You can check my projects here on GitHub — more coming soon!
 
 <!--
 **SNEHAdotjs/SNEHAdotjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
